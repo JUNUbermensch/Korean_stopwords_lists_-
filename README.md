@@ -1,4 +1,4 @@
-# Korean_stopwords_lists_-
+# Korean_stopwords
 한국어 불용어 목록입니다
 
 
